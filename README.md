@@ -47,6 +47,8 @@ and download App FT SCServo Debug for set ID and test servo in this link
 ## INFORMATION 
 
 https://github.com/RAEPIM64/Spinosaurus/assets/170262893/48a70506-3c3e-4873-8ff2-c4b60fb484f9
+
+
 ***Topic***
 
  1. Skull
