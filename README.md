@@ -28,7 +28,7 @@ $ git clone https://github.com/RAEPIM64/Spinosaurus.git
 ```
 and download App FT SCServo Debug for set ID and test servo in this link
 ```
-[https://drive.google.com/file/d/1DVRHQHyxRBQxg2RzepRRYOwxh_MZ8BRK/view?usp=sharing](https://drive.google.com/file/d/1DVRHQHyxRBQxg2RzepRRYOwxh_MZ8BRK/view?usp=sharing&fbclid=IwZXh0bgNhZW0CMTAAAR1AdpLxrLi_YDJDw-I-IniXlgR8_LQISvUO_7QfSJW-138dyteWFjs00qI_aem_Abzb_r22SMQ5YWgRU3LF7pyYxg3UtsBBndQoEcDhzgrmJVOEEcsK6cGQ53ErZJKbrpN6G8AKQXhdj9AKQ4fza5jj)
+https://drive.google.com/file/d/1DVRHQHyxRBQxg2RzepRRYOwxh_MZ8BRK/view?usp=sharing
 ```
 
 # Equipment
