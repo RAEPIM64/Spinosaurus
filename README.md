@@ -13,6 +13,7 @@ CPG:
  [- Equipment](#equipment)
  [- Information Spinosarus](#information-spinosarus)
  [- Knowledge Used](#knowledge-used)
+ [-Creator](#creator)
 
 #  Installation
 
@@ -187,6 +188,8 @@ https://th.misumi-ec.com/th/pr/recommend_category/spring201901/
 ```
 https://ozysuspensions.in.th/guru-detail.php?id=55
 ```
-
+# Creator
+  
+Junior from Panyapiwat Intitude of Managment, faculty of Engineering and Technology, majoring in Robotic and Automation (RAE)
 
  
