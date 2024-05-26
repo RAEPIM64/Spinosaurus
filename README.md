@@ -10,10 +10,15 @@ CPG:
 # Table of Content
 
  [- Installation](#installation)
+ 
  [- Equipment](#equipment)
+ 
  [- Information Spinosarus](#information-spinosarus)
+ 
  [- Knowledge Used](#knowledge-used)
+ 
  [-Creator](#creator)
+ 
 
 #  Installation
 
