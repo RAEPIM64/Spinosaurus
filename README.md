@@ -124,9 +124,15 @@ Spinosaurus' muscles were complex and powerful. This allows it to hunt large pre
 
 
 **Neck Muscles:** Spinosaurus had very strong neck muscles. This allows him to rotate his head quickly and accurately. This is very important for hunting. This is because it helped the Spinosaurus capture its prey quickly and accurately.
+
 **Jaw Muscles:** Spinosaurus had very powerful jaw muscles. This allowed it to bite down on large prey. Spinosaurus is thought to have been able to bite down on prey with more than 1,300 pounds of pressure per square inch. which is greater than the bite force of Tyrannosaurus rex
+
 **Leg Muscles:** Spinosaurus had very strong leg muscles. This allowed it to chase its prey quickly and powerfully. Spinosaurus' legs were long and strong. This allowed it to run faster than other two-legged carnivorous dinosaurs
+
 **Tail Muscles:** Spinosaurus had very strong tail muscles. This allowed it to control its large tail. The Spinosaurus' tail was long and flexible. This allows it to be used to balance itself while swimming, attack prey, or defend itself from enemies.
+
 **Chest Muscles:** Spinosaurus had large chest muscles that helped it breathe efficiently.
+
 **Abdominal Muscles:** Spinosaurus had strong abdominal muscles that helped it digest food and maintain its internal organs.
+
 **Head Muscles:** Spinosaurus had facial muscles that helped it eat, capture prey, and express itself. 
