@@ -1,20 +1,17 @@
+
 # Spinosaurus Robot 
 To build Spinosaurus robot and control it with CPG (Central pattern generator) ,Now we can make it walk straight only and simulate Spinosaurus's swimming that can change mode with Node-red by use MQTT
 
 ![S__10477576](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/46d1bdc8-aafd-4bc1-bf9d-03c15f78dbb1)
 
-CPG:
-![S__9076811](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/304825e9-e724-4b9a-9ef8-d5784d02f5c6)
 
 
 # Table of Content
 
-
-
-
-***
-
-
+ [- Installation](#installation)
+ [- Equipment](#equipment)
+ [- Information Spinosarus](#information-spinosarus)
+ [- Knowledge Used](#knowledge-used)
 
 #  Installation
 
@@ -46,7 +43,7 @@ and download App FT SCServo Debug for set ID and test servo in this link
 
 
 
-## INFORMATION 
+## Information Spinosarus
 
 https://github.com/RAEPIM64/Spinosaurus/assets/170262893/48a70506-3c3e-4873-8ff2-c4b60fb484f9
 
@@ -113,7 +110,7 @@ After the discovery of the hind limbs of Spinosaurus in 2014, it was found that 
 
 ![enter image description here](https://iiif.elifesciences.org/lax:80092/elife-80092-fig6-v1.tif/full/617,/0/default.webp)
 
-His model also revealed that the center of mass of the Spinosaurus was located above the midfoot area, indicating that it could walk on both hind legs confidently. This contradicted Ibrahim's research, which suggested the center of mass was in the front part of the body, implying that this type of dinosaur had to walk on all fours. This suggests that this dinosaur likely walked on all four legs, as its hind legs were comparatively small and short when compared to its other relatives. "Its legs are short and stout," Holtz reinforced, thus supporting the original hypothesis that such legs might be more suitable for swimming.
+His model also revealed that the center of mass of the Spinosaurus was located above the midfoot area, indicating that it could walk on both hind legs confidently. This contradicted Ibrahim's research, which suggested the center of mass was in the front part of the body, implying that this type of dinosaur had to walk on all fours. This suggests that this dinosaur likely walked on all four legs, as its w,jhind legs were comparatively small and short when compared to its other relatives. "Its legs are short and stout," Holtz reinforced, thus supporting the original hypothesis that such legs might be more suitable for swimming.
 
 Resources:
 ```
@@ -140,3 +137,55 @@ Spinosaurus' muscles were complex and powerful. This allows it to hunt large pre
 **Abdominal Muscles:** Spinosaurus had strong abdominal muscles that helped it digest food and maintain its internal organs.
 
 **Head Muscles:** Spinosaurus had facial muscles that helped it eat, capture prey, and express itself. 
+
+## Knowledge Used
+
+ - **Central Pattern Generators (CPGs):**
+
+This structure is located at the spinal cord and it usually comprises of two neural populations which produce an alternating output of spikes. Eventually, these output spikes are used to activate the muscles fibers.
+
+This approach of using CPGs can be borrowed to create locomotion in robotics. There are several possibilities to implement a CPG: using coupled-oscillators, using Artificial  [Neural Networks]"Learn more about Neural Networks from ScienceDirect's AI-generated Topic Pages")  (ANNs) or using Spiking Neural Networks (SNNs)
+
+Resources:
+```
+https://www.sciencedirect.com/science/article/pii/S0925231222008165
+```
+
+ 
+
+ - **Spring**
+
+The K value of a spring, also known as Nij, is a value used to indicate the force or weight that causes the spring to stretch or contract. It has units of Kg/mm, N/mm or Lbs/in, such as K = 3Kg/mm showing that when A weight of 3 kilograms is pressed against this spring and it will collapse 1 millimeter. The K value will be written on the spring coil area. The K value of each type of spring is not the same. This will depend on the stiffness of the spring as well. The more stiff the spring, the higher the K value will be. For springs that are weak, the K value will also be low. The choice of use should be mainly based on the K value of the spring. In order to get the spring that is most suitable for the job.
+
+The calculation formula is **k= F/s**
+
+(F is the force in Newtons (N), s is the contraction distance of the spring. Must be in mm)
+
+The K value is used in units of kg/mm ​​(Kg/mm), newtons/mm (N/mm) and pounds/inch (Lbs/in), where 1 Kg/mm is equal to 56. Lbs/in and 9.86 N/mm, these values ​​will directly affect the softness of the suspension.
+
+**Each type of spring**
+
+**Torsion Springs:** A rebound spring is a spring that receives pressure or compressive force in a circumferential manner. The appearance is independent. There is no fixed format. The shape of the spring can be designed to suit the job very well. Spring springs are suitable for work on spare parts for machinery, automobiles, spare parts for various electrical appliances.
+
+**Tension Springs:** A tension spring is a spring used to receive tension. This type of spring is special in that the coiling pattern of the spring is denser than other types of springs. Both ends are hooks or loops. To be used for hooking or hanging with other equipment. Behavior when pulling force The spring will extend the same distance.
+
+**Compression Springs:** A compression spring, also known as a pressure spring, is a spring used for receiving pressure or pressure. By the nature of the wire strands, they have the same distance apart. Most of the work that uses compression springs is automotive spare parts. Industrial machinery, furniture, electrical appliances, etc.
+
+**Disc spring rings (Disc Springs):** Disc spring ring or disc spring ring It looks similar to a nut washer, but the ring , spring , and plate are curved. Suitable for work that requires high strength. Good for use in narrow spaces. The installation can be placed in a variety of workpieces. Allows for force to be received from many directions.
+
+**Spring selection and precautions**
+
+Selection of springs You should choose from a reliable quality manufacturer. Manufactured according to standards (JIS). In addition, factors in selecting the spring that is appropriate for the job must be considered as follows. You must know how much pressure the spring you want will be able to withstand. Choose from large sizes or the size of the spring insert hole Make it a suitable size for the length of the spring's collapse and its service life.
+
+Precautions when using springs are: When it's time to change the springs, the entire set should be replaced. You should not change them one by one. Because the pressure will be uneven, it may damage the machine. Do not modify or cause the spring to change its original shape. And do not use the spring that is in the maximum collapse stage. Because the spring wire may be hit and broken.
+
+Resources:
+```
+https://th.misumi-ec.com/th/pr/recommend_category/spring201901/
+```
+```
+https://ozysuspensions.in.th/guru-detail.php?id=55
+```
+
+
+ 
