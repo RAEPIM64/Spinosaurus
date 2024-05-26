@@ -4,6 +4,9 @@ To build Spinosaurus robot and control it with CPG (Central pattern generator) ,
 ![S__10477576](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/46d1bdc8-aafd-4bc1-bf9d-03c15f78dbb1)
 
 
+![S__9076811](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/304825e9-e724-4b9a-9ef8-d5784d02f5c6)
+
+
 # Table of Content
 
 
