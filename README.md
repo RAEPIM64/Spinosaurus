@@ -1,11 +1,16 @@
 
 # Spinosaurus Robot 
-To build Spinosaurus robot and control it with CPG (Central pattern generator) ,Now we can make it walk straight only and simulate Spinosaurus's swimming that can change mode with Node-red by use MQTT
+To build Spinosaurus robot and control it with CPG (Central pattern generator) ,Now we can make it walk straight only and simulate Spinosaurus's swimming that can change mode with Node-RED by use MQTT and use Hormone for decrease torque to simulate like Spinosaurus is tiring
 
 ![S__10477576](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/46d1bdc8-aafd-4bc1-bf9d-03c15f78dbb1)
 
 CPG:
 ![S__9076811](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/304825e9-e724-4b9a-9ef8-d5784d02f5c6)
+
+Node-RED:
+![messageImage_1716784700805](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/3d9ae2d0-0695-4d48-946b-2227ca1b639e)
+![messageImage_1716784853871](https://github.com/RAEPIM64/Spinosaurus/assets/170262893/a873ced0-3ac5-45ac-a9b0-130dce03ba49)
+
 
 # Table of Content
 
@@ -30,6 +35,29 @@ and download App FT SCServo Debug for set ID and test servo in this link
 ```
 https://drive.google.com/file/d/1DVRHQHyxRBQxg2RzepRRYOwxh_MZ8BRK/view?usp=sharing
 ```
+for want to use Node-RED for Window, First dowmload Node.js 
+```
+https://nodejs.org/en/
+```
+After download complete you run CMD or powershell as administrator Check yor version
+
+for Powersshell
+```
+node --version; npm --version
+```
+for CMD
+```
+node --version && npm --version
+```
+Next downlaod Node-RED copy this command run on CMD
+```
+npm install -g --unsafe-perm node-red
+```
+Last try run Node-RED on CMD 
+```
+node-red
+```
+You will get http Node-RED for you copy http to paste in google
 
 # Equipment
 ***Hardware***
@@ -45,7 +73,7 @@ https://drive.google.com/file/d/1DVRHQHyxRBQxg2RzepRRYOwxh_MZ8BRK/view?usp=shari
  1. Arduino IDE
  2. FT SCServo Debug V1.9.8
  3. MQTT Websocket
- 4. Node-Red
+ 4. Node-RED
 
 
 
